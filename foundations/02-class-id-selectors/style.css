@@ -1,0 +1,22 @@
+p:nth-child(odd){
+  font-family: 'Verdana', 'DejaVu sans','sans-serif';
+  background-color: rgb(230, 127, 116);
+}
+
+#second-element {
+  font-size: 36px;
+  color: #0000ff;
+}
+
+.three {
+  /* * **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px */
+  font-size: 24px;
+}
+
+#four {
+  /* * **The fourth element**: a light green background, a font size of 24px, and bold
+ */
+ background-color: hsl(84, 100%, 59%);
+ font-size: 24px;
+ font-weight: bold;
+}
