@@ -1,0 +1,15 @@
+.btn {
+  /* a font size of 28px and a list of fonts containing Helvetica and Times New Roman, with sans-serif as a fallback */
+  font-size: 28px;
+  font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.click {
+  /* a black background and white text */
+  background-color: black;
+  color: white;
+}
+
+.no-click {
+  background-color: yellow;
+}
